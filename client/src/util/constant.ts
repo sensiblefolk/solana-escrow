@@ -1,0 +1,1 @@
+export const TEST_NET = "https://api.testnet.solana.com"
